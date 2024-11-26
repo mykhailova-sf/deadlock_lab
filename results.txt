@@ -1,0 +1,11 @@
+time = 0 available = 0 0 blocked = 0
+time = 1 available = 0 0 blocked = 0
+time = 2 available = 0 0 blocked = 0
+time = 3 available = 0 0 blocked = 0
+time = 4 available = 0 0 blocked = 0
+time = 5 available = 0 0 blocked = 0
+time = 6 available = 0 0 blocked = 0
+time = 7 available = 0 0 blocked = 0
+time = 8 available = 0 0 blocked = 0
+time = 9 available = 0 0 blocked = 0
+time = 10 available = 0 0 blocked = 2
